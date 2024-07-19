@@ -1,0 +1,12 @@
+1>Create a set to store unique numbers and print the set.
+2>Write a script to add a new element to a set and then remove an existing element.
+3>Iterate through a set and print each element.
+4>Create two sets and find their union and intersection.
+5>Create two sets and find their difference and symmetric difference.
+6>Create two sets and check if one is a subset or superset of the other.
+7>Write a function that takes a list of elements and returns a
+ list with duplicates removed using a set.
+ 8>Write a function that takes two strings and returns a
+ set of characters that are present in both strings.
+ 9>Given a dictionary, create a set from its keys.
+ 10>Write a function that takes a sentence and returns a set of unique words.

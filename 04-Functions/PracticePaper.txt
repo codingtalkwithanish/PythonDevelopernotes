@@ -1,0 +1,7 @@
+1>Write a function greet that takes a name as an argument and prints a greeting message.
+2>Write a function sum_two_numbers that takes two numbers as arguments and returns their sum.
+3>Write a function welcome that takes two arguments: a name and a message.
+The message should have a default value of "Welcome".
+4>Write a function product_of_list that takes a list of numbers and returns their product.
+5>Write a function concatenate_strings that takes any number of string arguments and
+ returns a single string that is their concatenation.
